@@ -1,0 +1,20 @@
+{
+    "bitbrowser_api": "http://127.0.0.1:54345",
+    "output_dir": "分析结果",
+    "platforms": {
+        "rutube": {
+            "window_id": "e680a62f4bd64c79bd50acd1d0e8157e",
+            "user_channel_id": "72362616",
+            "description": "Rutube俄罗斯视频平台"
+        },
+        "dzen": {
+            "window_id": "a3920db96dc44aa1ba787dfaf061f15a",
+            "channel_url": "https://dzen.ru/id/691a92be2e197773b008ec6e",
+            "description": "Yandex Dzen俄罗斯内容平台 - 阀门产品频道"
+        },
+        "vk": {
+            "window_id": "efd5b40c255447b89c23e50fe4325dc3",
+            "description": "VKontakte俄罗斯社交平台"
+        }
+    }
+}
