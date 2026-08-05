@@ -1,0 +1,20 @@
+{
+    "bitbrowser_api": "http://127.0.0.1:54345",
+    "output_dir": "分析结果",
+    "platforms": {
+        "rutube": {
+            "window_id": "<your_rutube_window_id>",
+            "user_channel_id": "<your_channel_id>",
+            "description": "Rutube video platform"
+        },
+        "dzen": {
+            "window_id": "<your_dzen_window_id>",
+            "channel_url": "<your_dzen_channel_url>",
+            "description": "Yandex Dzen content platform"
+        },
+        "vk": {
+            "window_id": "<your_vk_window_id>",
+            "description": "VKontakte social platform"
+        }
+    }
+}
