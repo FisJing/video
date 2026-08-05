@@ -2,8 +2,8 @@
     "bitbrowser_api": "http://127.0.0.1:54345",
     "platforms": {
         "dzen": {
-            "window_id": "a3920db96dc44aa1ba787dfaf061f15a",
-            "channel_url": "https://dzen.ru/id/691a92be2e197773b008ec6e"
+            "window_id": "<your_bitbrowser_window_id>",
+            "channel_url": "<your_dzen_channel_url>"
         }
     }
 }
